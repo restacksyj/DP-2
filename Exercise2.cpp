@@ -1,6 +1,6 @@
 // Problem - Paint House
-//  Time Complexity : O(m*n)
-//  Space Complexity : O(n)
+//  Time Complexity : O(m)
+//  Space Complexity : O(1)
 //  Did this code successfully run on Leetcode : Yes
 //  Any problem you faced while coding this : No
 
